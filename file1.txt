@@ -1,1 +1,1 @@
-This is the first and new file  created in feature1 branch.
+This is the first and new file created in feature1 branch. Now this line is modified feature2 branch.
